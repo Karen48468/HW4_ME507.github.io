@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['environ_0',['environ',['../syscalls_8c.html#aa006daaf11f1e2e45a6ababaf463212b',1,'syscalls.c']]]
+  ['pw_0',['pw',['../main_8c.html#af09ff1950046bd7b7e24206842bdb75f',1,'main.c']]]
 ];
